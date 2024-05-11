@@ -1,18 +1,58 @@
 <template>
-  <h1>
+  <div>
+    <h1>
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/28obMi1bq4JwaOc288"
+        >Toru's crazy Japanese lessons</a
+      >
+    </h1>
+    <p style="margin: 20px 10px">
+      You will be able to join the lesson after your purchase from the link
+      above.
+      <br />
+      Please click the details button on the right top after clicking the link
+      to find out more about the lesson. <br />
+      Please DM me through Instagram or Messenger once you purchase the course
+      or if you have any questions :)
+    </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
+    <h1>
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/fZeg2y3jy8ZM1dCdQR"
+        >English lessons</a
+      >
+    </h1>
+    <p style="margin: 20px 10px">
+      上記のリンクを開いていただいて、右上の「Details」からレッスンの詳細をご覧いただけます。<br />
+      ご購入いただいた方はその週のレッスンから参加が可能です。<br />ご質問のある方やご購入いただいた方はinstaやmessengerなどでご連絡ください＾＾
+    </p>
+  </div>
+  <div style="margin-bottom: 20px">
+    <a target="_blank" href="https://www.instagram.com/tofudesukedo/">
+      <img
+        style="margin-right: 10px; width: 50px"
+        src="@/assets/instagram.jpeg"
+      />
+    </a>
     <a
-      style="color: #243a73; text-decoration: none"
-      href="https://buy.stripe.com/28obMi1bq4JwaOc288"
-      >Toru's crazy Japanese lessons</a
+      target="_blank"
+      href="https://www.tiktok.com/@torubunol?is_from_webapp=1&sender_device=pc"
     >
-  </h1>
-  <h1>
-    <a
-      style="color: #243a73; text-decoration: none"
-      href="https://buy.stripe.com/fZeg2y3jy8ZM1dCdQR"
-      >English lessons</a
-    >
-  </h1>
+      <img
+        style="margin-bottom: 3px; margin-right: 15px; width: 50px"
+        src="@/assets/tikto.png"
+      />
+    </a>
+    <a target="_blank" href="https://www.facebook.com/tofudesukedo/">
+      <img
+        style="margin-right: 10px; width: 50px; margin-bottom: 1px"
+        src="@/assets/facebook.jpeg"
+      />
+    </a>
+  </div>
   <a href="http://tofudesukedo.github.io/dist"
     >特定商取引法に基づく表記用ページ</a
   >
@@ -32,5 +72,13 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+h1 {
+  margin-bottom: 0.2rem;
+  border-bottom: 3px solid #b2d5de;
+  font-weight: bold;
+  font-size: 26px;
+  width: fit-content;
+  margin: 0 auto;
 }
 </style>
