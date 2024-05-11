@@ -1,6 +1,18 @@
 <template>
-  <h1>Toru's crazy Japanese lessons</h1>
-  <h1>English lessons</h1>
+  <h1>
+    <a
+      style="color: #243a73; text-decoration: none"
+      href="https://buy.stripe.com/28obMi1bq4JwaOc288"
+      >Toru's crazy Japanese lessons</a
+    >
+  </h1>
+  <h1>
+    <a
+      style="color: #243a73; text-decoration: none"
+      href="https://buy.stripe.com/fZeg2y3jy8ZM1dCdQR"
+      >English lessons</a
+    >
+  </h1>
   <a href="http://tofudesukedo.github.io/dist"
     >特定商取引法に基づく表記用ページ</a
   >
