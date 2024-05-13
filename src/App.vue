@@ -10,11 +10,9 @@
     <p style="margin: 20px 10px">
       Please click the details button on the right top after clicking the title
       above to find out more about the lesson. <br />
-      I will notify you the zoom link and the schedule of the lessons after your
-      purchase.
       <br />
-      Please DM me through Instagram or Messenger once you purchase the course
-      or if you have any questions :)
+      Please DM me through Instagram or Messenge for a free trial lesson or if
+      you have any questions :)
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
@@ -28,7 +26,7 @@
     <p style="margin: 20px 10px">
       上記の「English
       Lessons」をタップしていただいあと、右上の「Details」からレッスンの詳細をご覧いただけます。<br />
-      ご購入いただいた方はその週のレッスンから参加が可能です。<br />ご質問のある方やご購入いただいた方はinstaやmessengerなどでご連絡ください＾＾
+      <br />ご質問のある方や無料のお試しレッスンをご希望の方はinstaやmessengerなどでご連絡ください＾＾
     </p>
   </div>
   <div style="margin-bottom: 20px">
