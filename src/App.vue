@@ -19,7 +19,7 @@
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/fZeg2y3jy8ZM1dCdQR"
+        href="https://buy.stripe.com/aEU3fM1bqfoa3lK28b"
         >English Lessons</a
       >
     </h1>
@@ -27,6 +27,18 @@
       上記の「English
       Lessons」をタップしていただいあと、右上の「Details」からレッスンの詳細をご覧いただけます。<br />
       <br />ご質問のある方や無料のお試しレッスンをご希望の方はinstaやmessengerなどでご連絡ください＾＾
+    </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
+    <h1>
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/00g3fM6vKgse2hG8wy"
+        >Phone call with Toru</a
+      >
+    </h1>
+    <p style="margin: 20px 10px">
+      10 US dollors for 30min phone call with me :)
     </p>
   </div>
   <div style="margin-bottom: 20px">
