@@ -67,7 +67,7 @@
     <p style="margin: 20px 10px">
       We will have 10 min subscription only live after normal live. <br />
       You are free to come up to small window and talk with Toru and make
-      friends!<br />
+      friends!<br /><br />
       普通のライブ配信の後、10分ほどサブスク限定配信をします。<br />
       サブスク配信では小窓に自由に上がっていただけます。<br />
       僕や外国人の視聴者さんなどと一緒にお話をしてお友達を作りましょう！<br />
