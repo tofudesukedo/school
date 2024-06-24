@@ -47,7 +47,8 @@
       >
     </h1>
     <p style="margin: 20px 10px">
-      10 US dollors for 30min phone call with me :)
+      10 US dollors for 30min phone call with me :) <br />
+      30分の電話1500円くらい
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
