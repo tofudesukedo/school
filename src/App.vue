@@ -17,7 +17,7 @@
       You will learn Japanese used in Anime and daily conversations step by
       step. <br />
       The 60 minutes private lessons will be held three times in a month.<br />
-      Pls DM me through insta or messeng for a free trial lesson :) <br />
+      Pls DM me through insta or messenger for a free trial lesson :) <br />
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
