@@ -7,12 +7,17 @@
         >Toru's crazy Japanese lessons</a
       >
     </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">3</span> lessons
+      <span style="font-size: 30px; color: #243a73">70</span> $
+    </div>
+
     <p style="margin: 20px 10px">
-      Please click the details button on the right top after clicking the title
-      above to find out more about the lesson. <br />
-      <br />
-      Please DM me through Instagram or Messenge for a free trial lesson or if
-      you have any questions :)
+      Welcome to Toru's crazy Japanese Lessons! <br />
+      You will learn Japanese used in Anime and daily conversations step by
+      step. <br />
+      The 60 minutes private lessons will be held three times in a month.<br />
+      Pls DM me through insta or messeng for a free trial lesson :) <br />
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
@@ -23,10 +28,14 @@
         >English Lessons</a
       >
     </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">3</span> レッスン
+      <span style="font-size: 30px; color: #243a73">9,800</span> 円
+    </div>
     <p style="margin: 20px 10px">
-      上記の「English
-      Lessons」をタップしていただいあと、右上の「Details」からレッスンの詳細をご覧いただけます。<br />
-      <br />ご質問のある方や無料のお試しレッスンをご希望の方はinstaやmessengerなどでご連絡ください＾＾
+      月3回プライベートで英会話をおしえます。<br />
+      1回の授業は60分、基礎から学んで徐々に英語が話せるようになるようなカリキュラムで進めていきます。<br />
+      無料のトライアルレッスンはSNSでDMください＾＾
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
@@ -39,6 +48,28 @@
     </h1>
     <p style="margin: 20px 10px">
       10 US dollors for 30min phone call with me :)
+    </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
+    <h1 style="border-bottom: 3px solid yellow">
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/00g3fM6vKgse2hG8wy"
+        >subscription</a
+      >
+    </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">10</span> $
+      <span style="font-size: 30px; color: #243a73">/</span>
+      <span style="font-size: 30px; color: #243a73">1470</span> 円
+    </div>
+    <p style="margin: 20px 10px">
+      We will have 10 min subscription only live after normal live. <br />
+      You are free to come up to small window and talk with Toru and make
+      friends!<br />
+      普通のライブ配信の後、10分ほどサブスク限定配信をします。<br />
+      サブスク配信では小窓に自由に上がっていただけます。<br />
+      僕や外国人の視聴者さんなどと一緒にお話をしてお友達を作りましょう！<br />
     </p>
   </div>
   <div style="margin-bottom: 20px">
