@@ -11,7 +11,6 @@
       <span style="font-size: 30px; color: #243a73">3</span> lessons
       <span style="font-size: 30px; color: #243a73">70</span> $
     </div>
-
     <p style="margin: 20px 10px">
       Welcome to Toru's crazy Japanese Lessons! <br />
       You will learn Japanese used in Anime and daily conversations step by
@@ -65,10 +64,11 @@
       <span style="font-size: 30px; color: #243a73">1470</span> 円
     </div>
     <p style="margin: 20px 10px">
-      We will have 10 min subscription only live after normal live. <br />
+      We will have subscription only live after normal live several times a
+      week. <br />
       You are free to come up to small window and talk with Toru and make
       friends!<br /><br />
-      普通のライブ配信の後、10分ほどサブスク限定配信をします。<br />
+      普通のライブ配信の後、週に数回サブスク限定配信をします。<br />
       サブスク配信では小窓に自由に上がっていただけます。<br />
       僕や外国人の視聴者さんなどと一緒にお話をしてお友達を作りましょう！<br />
     </p>
