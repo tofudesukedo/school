@@ -3,13 +3,13 @@
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/28obMi1bq4JwaOc288"
+        href="https://buy.stripe.com/8wMaIe5rGdg23lKaEQ"
         >Toru's crazy Japanese lessons</a
       >
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">3</span> lessons
-      <span style="font-size: 30px; color: #243a73">70</span> $
+      <span style="font-size: 30px; color: #243a73">98</span> $
     </div>
     <p style="margin: 20px 10px">
       Welcome to Toru's crazy Japanese Lessons! <br />
@@ -23,40 +23,58 @@
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/fZeg2y3jy8ZM1dCdQR"
-        >English Lessons</a
+        href="https://buy.stripe.com/6oE2bI5rGcbY2hGdR4"
+        >おとなの英会話教室</a
       >
     </h1>
     <div style="margin: 20px 10px">
-      <span style="font-size: 30px; color: #243a73">3</span> レッスン
-      <span style="font-size: 30px; color: #243a73">9,800</span> 円
+      <span style="font-size: 30px; color: #243a73">1</span> レッスン
+      <span style="font-size: 30px; color: #243a73">4,800</span> 円
     </div>
     <p style="margin: 20px 10px">
-      月3回プライベートで英会話をおしえます。<br />
-      1回の授業は60分、基礎から学んで徐々に英語が話せるようになるようなカリキュラムで進めていきます。<br />
-      無料のトライアルレッスンはSNSでDMください＾＾
+      プライベートで英会話をおしえます。<br />
+      1回の授業は60分、レッスンをお申し込みの際はSNSでDMください＾＾
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/00g3fM6vKgse2hG8wy"
+        href="https://buy.stripe.com/14k7w2f2gcbYaOcdR0"
         >Phone call with Toru</a
       >
     </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">20</span> $
+      <span style="font-size: 30px; color: #243a73">/</span>
+      <span style="font-size: 30px; color: #243a73">3000</span> 円
+    </div>
     <p style="margin: 20px 10px">
-      10 US dollors for 30min phone call with me :) <br />
-      30分の電話1500円くらい
+      20 US dollors for 30min phone call with me :) Pls DM me through insta or
+      messenger for more details.<br />
+      30分の電話3000円くらい、レッスンをお申し込みの際はSNSでDMください＾＾
+    </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
+    <h1>
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/cN2aIeg6k0tgcWkeV7"
+        >レンタルとーる♡</a
+      >
+    </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">1</span> 時間
+      <span style="font-size: 30px; color: #243a73">4,800</span> 円
+    </div>
+    <p style="margin: 20px 10px">
+      東京都内または横浜周辺でデートしましょう！wakuwaku <br />
+      金額は1時間4,800円になります。 お申し込みの際はSNSでDMください＾＾
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
     <h1 style="border-bottom: 3px solid yellow">
-      <a
-        style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/00g3fM6vKgse2hG8wy"
-        >subscription</a
-      >
+      <a style="color: #243a73; text-decoration: none">subscription</a>
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">10</span> $
