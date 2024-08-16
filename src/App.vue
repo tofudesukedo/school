@@ -4,7 +4,8 @@
       <a
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/8wMaIe5rGdg23lKaEQ"
-        >Toru's crazy Japanese lessons</a
+        ><img style="width: 35px" src="@/assets/click.jpg" /> Crazy Japanese
+        lessons</a
       >
     </h1>
     <div style="margin: 20px 10px">
@@ -22,13 +23,16 @@
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/6oE2bI5rGcbY2hGdR4"
-        >おとなの英会話教室</a
+        href="https://buy.stripe.com/6oE4jQ6vKgse2hGaEX"
+        ><img
+          style="width: 35px"
+          src="@/assets/click.jpg"
+        />おとなの英会話教室</a
       >
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">1</span> レッスン
-      <span style="font-size: 30px; color: #243a73">4,800</span> 円
+      <span style="font-size: 30px; color: #243a73">5,000</span> 円
     </div>
     <p style="margin: 20px 10px">
       プライベートで英会話をおしえます。<br />
@@ -40,7 +44,8 @@
       <a
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/14k7w2f2gcbYaOcdR0"
-        >Phone call with Toru</a
+        ><img style="width: 35px" src="@/assets/click.jpg" /> Phone call with
+        Toru</a
       >
     </h1>
     <div style="margin: 20px 10px">
@@ -50,21 +55,21 @@
     </div>
     <p style="margin: 20px 10px">
       20 US dollors for 30min phone call with me :) Pls DM me through insta or
-      messenger for more details.<br /><br />
-      30分の電話3000円くらい、レッスンをお申し込みの際はSNSでDMください＾＾
+      messenger when purchasing.<br /><br />
+      30分の電話3000円くらい、お申し込みの際はSNSでDMください＾＾
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/cN2aIeg6k0tgcWkeV7"
-        >レンタルとーる🍈</a
+        href="https://buy.stripe.com/28o2bI9HW2Boe0oaEW"
+        ><img style="width: 35px" src="@/assets/click.jpg" />レンタルとーる🍈</a
       >
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">1</span> 時間
-      <span style="font-size: 30px; color: #243a73">4,800</span> 円
+      <span style="font-size: 30px; color: #243a73">5,000</span> 円
     </div>
     <p style="margin: 20px 10px">
       東京都内または横浜周辺でデートしましょう！<br />
