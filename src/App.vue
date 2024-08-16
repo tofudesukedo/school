@@ -4,7 +4,7 @@
       <a
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/8wMaIe5rGdg23lKaEQ"
-        ><img style="width: 35px" src="@/assets/click.jpg" /> Crazy Japanese
+        ><img style="width: 28px" src="@/assets/click.jpg" />Crazy Japanese
         lessons</a
       >
     </h1>
@@ -25,7 +25,7 @@
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/6oE4jQ6vKgse2hGaEX"
         ><img
-          style="width: 35px"
+          style="width: 28px"
           src="@/assets/click.jpg"
         />おとなの英会話教室</a
       >
@@ -44,7 +44,7 @@
       <a
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/14k7w2f2gcbYaOcdR0"
-        ><img style="width: 35px" src="@/assets/click.jpg" /> Phone call with
+        ><img style="width: 28px" src="@/assets/click.jpg" />Phone call with
         Toru</a
       >
     </h1>
@@ -64,7 +64,7 @@
       <a
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/28o2bI9HW2Boe0oaEW"
-        ><img style="width: 35px" src="@/assets/click.jpg" />レンタルとーる🍈</a
+        ><img style="width: 28px" src="@/assets/click.jpg" />レンタルとーる🍈</a
       >
     </h1>
     <div style="margin: 20px 10px">
