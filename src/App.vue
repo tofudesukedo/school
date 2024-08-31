@@ -22,6 +22,26 @@
   </div>
   <div style="margin: 50px 10px 50px">
     <h1>
+      <a style="color: #243a73; text-decoration: none" href=""
+        >Japan Tour with Toru ✈️</a
+      >
+    </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">1</span> hour
+      <span style="font-size: 30px; color: #243a73">50</span> dollors
+    </div>
+    <p style="margin: 20px 10px">
+      I’ll be guiding you in Japan!<br />
+      We can go to Izakaya( Japanese style bar ) or<br />
+      Onsen( public bath, hot spring ) or<br />
+      Sushi restaurant and teach you how to use chopsticks properly(i can’t
+      teach well cuz i suck at it)<br />
+      Let’s enjoy your journey to Japan together with Toru🍈<br />
+      Pls DM me for more details.
+    </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
+    <h1>
       <a
         style="color: #243a73; text-decoration: none"
         href="https://buy.stripe.com/6oE4jQ6vKgse2hGaEX"
@@ -78,24 +98,6 @@
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
-    <h1>
-      <a style="color: #243a73; text-decoration: none" href=""
-        >Japan Tour with Toru ✈️</a
-      >
-    </h1>
-    <div style="margin: 20px 10px">
-      <span style="font-size: 30px; color: #243a73">1</span> hour
-      <span style="font-size: 30px; color: #243a73">50</span> dollors
-    </div>
-    <p style="margin: 20px 10px">
-      I’ll be guiding you in Japan! We can go to Izakaya( Japanese style bar )
-      or Onsen( public bath, hot spring ) or Sushi restaurant and teach you how
-      to use chopsticks properly(i can’t teach well cuz i suck at it) Let’s
-      enjoy your journey to Japan together with Toru!<br />
-      Pls DM me for more details.
-    </p>
-  </div>
-  <div style="margin: 50px 10px 50px">
     <h1 style="border-bottom: 3px solid yellow">
       <a style="color: #243a73; text-decoration: none">subscription</a>
     </h1>
@@ -118,13 +120,17 @@
     <h1 style="border-bottom: 3px solid yellow">
       <a style="color: #243a73; text-decoration: none">merchandise / グッズ</a>
     </h1>
-    <p style="margin: 40px 10px 0">
-      I will send you a original postcard with pictures and messages for listers
-      who always watch me and support me with gifts.
-      <br />Also, there will be a keyfolder with a postcard.<br /><br />
-      僕のライブ配信をいつもサポートしてくれている方に写真とオリジナルメッセージ付きのポストカードをお送りします。<br />
-      合わせて、キーホルダーも以下の4種類から1つお送りします。<br />
-      いつもありがとうございます！<br />
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">30</span> $
+      <span style="font-size: 30px; color: #243a73">/</span>
+      <span style="font-size: 30px; color: #243a73">3000</span> 円
+    </div>
+    <p style="margin: 20px 10px 0">
+      I will send you a original postcard with pictures and messages.
+      <br />Also, there will be a keyfolder. Please choose one from below and DM
+      me when you order.<br /><br />
+      ライブをいつも見てくれている人限定で写真とオリジナルメッセージ付きのポストカードをお送りします。<br />
+      合わせて、キーホルダーも以下の4種類から1つお送りします。お申し込みの際はDMください＾＾<br /><br />
     </p>
     <div class="flex-box">
       <div class="carousel">
