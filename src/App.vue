@@ -98,6 +98,23 @@
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
+    <h1>
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://onlyfans.com/u438463889"
+        ><img style="width: 28px" src="@/assets/click.jpg" />Only fan</a
+      >
+    </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">1</span> month
+      <span style="font-size: 30px; color: #243a73">20</span> dollors
+    </div>
+    <p style="margin: 20px 10px">
+      I just created my account on onlyfans.<br />
+      I will be posting pictures of mine once someone start subscribing!
+    </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
     <h1 style="border-bottom: 3px solid yellow">
       <a style="color: #243a73; text-decoration: none">subscription</a>
     </h1>
@@ -188,6 +205,12 @@
       <img
         style="margin-right: 10px; width: 50px; margin-bottom: 1px"
         src="@/assets/facebook.jpeg"
+      />
+    </a>
+    <a target="_blank" href="https://www.youtube.com/@Torumelon">
+      <img
+        style="margin-right: 10px; width: 50px; margin-bottom: 1px"
+        src="@/assets/youtube.png"
       />
     </a>
   </div>
