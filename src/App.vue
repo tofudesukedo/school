@@ -22,8 +22,11 @@
   </div>
   <div style="margin: 50px 10px 50px">
     <h1>
-      <a style="color: #243a73; text-decoration: none" href=""
-        >Japan Tour with Toru ✈️</a
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/aEU03A7zO2Boe0oaF1"
+        ><img style="width: 28px" src="@/assets/click.jpg" />Japan Tour with
+        Toru ✈️</a
       >
     </h1>
     <div style="margin: 20px 10px">
@@ -96,6 +99,21 @@
       東京都内または横浜周辺でデートしましょう！<br />
       お申し込みの際はSNSでDMください＾＾
     </p>
+  </div>
+  <div style="margin: 50px 10px 50px">
+    <h1>
+      <a
+        style="color: #243a73; text-decoration: none"
+        href="https://buy.stripe.com/8wM6rY7zO0tge0obJ4"
+        ><img style="width: 28px" src="@/assets/click.jpg" />Toru travels to
+        you🛩</a
+      >
+    </h1>
+    <div style="margin: 20px 10px">
+      <span style="font-size: 30px; color: #243a73">1</span> day
+      <span style="font-size: 30px; color: #243a73">1,000</span> $
+    </div>
+    <p style="margin: 20px 10px">I will be there in your place!</p>
   </div>
   <div style="margin: 50px 10px 50px">
     <h1>
