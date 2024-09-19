@@ -3,14 +3,14 @@
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/8wMaIe5rGdg23lKaEQ"
+        href="https://buy.stripe.com/28o4jQ5rG6RE1dCeVj"
         ><img style="width: 28px" src="@/assets/click.jpg" />Crazy Japanese
         lessons</a
       >
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">3</span> lessons
-      <span style="font-size: 30px; color: #243a73">98</span> $
+      <span style="font-size: 30px; color: #243a73">150</span> $
     </div>
     <p style="margin: 20px 10px">
       Welcome to Toru's crazy Japanese Lessons! <br />
@@ -47,7 +47,7 @@
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/6oE4jQ6vKgse2hGaEX"
+        href="https://buy.stripe.com/6oEbMi07mek6bSg7sS"
         ><img
           style="width: 28px"
           src="@/assets/click.jpg"
@@ -56,7 +56,7 @@
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">1</span> レッスン
-      <span style="font-size: 30px; color: #243a73">5,000</span> 円
+      <span style="font-size: 30px; color: #243a73">10,000</span> 円
     </div>
     <p style="margin: 20px 10px">
       プライベートで英会話をおしえます。<br />
@@ -78,25 +78,25 @@
       <span style="font-size: 30px; color: #243a73">3000</span> 円
     </div>
     <p style="margin: 20px 10px">
-      20 US dollors for 30min phone call with me :) <br />
+      20 US dollors for 10min phone call with me :) <br />
       Pls DM me through insta or messenger when purchasing.<br /><br />
-      30分の電話3000円くらい、お申し込みの際はSNSでDMください＾＾
+      10分の電話3000円くらい、お申し込みの際はSNSでDMください＾＾
     </p>
   </div>
   <div style="margin: 50px 10px 50px">
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
-        href="https://buy.stripe.com/28o2bI9HW2Boe0oaEW"
+        href="https://buy.stripe.com/4gw9EadYc4Jw4pOeVi"
         ><img style="width: 28px" src="@/assets/click.jpg" />レンタルとーる🍈</a
       >
     </h1>
     <div style="margin: 20px 10px">
       <span style="font-size: 30px; color: #243a73">1</span> 時間
-      <span style="font-size: 30px; color: #243a73">5,000</span> 円
+      <span style="font-size: 30px; color: #243a73">10,000</span> 円
     </div>
     <p style="margin: 20px 10px">
-      東京都内または横浜周辺でデートしましょう！<br />
+      東京都内または横浜周辺であそびましょう！<br />
       お申し込みの際はSNSでDMください＾＾
     </p>
   </div>
@@ -115,7 +115,7 @@
     </div>
     <p style="margin: 20px 10px">I will be there in your place!</p>
   </div>
-  <div style="margin: 50px 10px 50px">
+  <!-- <div style="margin: 50px 10px 50px">
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
@@ -131,7 +131,7 @@
       I just created my account on onlyfans.<br />
       I will be posting pictures of mine once someone start subscribing!
     </p>
-  </div>
+  </div> -->
   <div style="margin: 50px 10px 50px">
     <h1 style="border-bottom: 3px solid yellow">
       <a style="color: #243a73; text-decoration: none">subscription</a>
@@ -151,7 +151,7 @@
       僕や外国人の視聴者さんなどと一緒にお話をしてお友達を作りましょう！
     </p>
   </div>
-  <div style="margin: 50px 10px">
+  <!-- <div style="margin: 50px 10px">
     <h1 style="border-bottom: 3px solid yellow">
       <a style="color: #243a73; text-decoration: none">merchandise / グッズ</a>
     </h1>
@@ -202,7 +202,7 @@
         />
       </div>
     </div>
-  </div>
+  </div> -->
   <div style="margin-bottom: 20px">
     <a target="_blank" href="https://www.instagram.com/tofudesukedo/">
       <img
