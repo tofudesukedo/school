@@ -75,7 +75,7 @@
       1回の授業は60分、レッスンをお申し込みの際はSNSでDMください＾＾
     </p>
   </div>
-  <div style="margin: 50px 10px 50px">
+  <!-- <div style="margin: 50px 10px 50px">
     <h1>
       <a
         style="color: #243a73; text-decoration: none"
@@ -127,7 +127,7 @@
       <span style="font-size: 30px; color: #243a73">1,000</span> $
     </div>
     <p style="margin: 20px 10px">I will be there in your place!</p>
-  </div>
+  </div> -->
   <!-- <div style="margin: 50px 10px 50px">
     <h1>
       <a
